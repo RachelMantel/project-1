@@ -7,7 +7,7 @@ namespace Amusement_park
 
         public int Id { get; set; }
 
-        public int OrderLineId { get; set; }
+        public int TicketId { get; set; }
 
         public string CustomerId { get; set; }
 
@@ -15,6 +15,8 @@ namespace Amusement_park
 
         public int FinallPrice { get; set; }
 
-        public string paymentMethod { get; set; }
+        public string PaymentMethod { get; set; }
+
+        public int Quantity { get; set; }
     }
 }

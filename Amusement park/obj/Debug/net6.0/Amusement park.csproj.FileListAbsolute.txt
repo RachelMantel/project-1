@@ -30,3 +30,35 @@ D:\Amusement park\Amusement park\obj\Debug\net6.0\refint\Amusement park.dll
 D:\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.pdb
 D:\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.genruntimeconfig.cache
 D:\Amusement park\Amusement park\obj\Debug\net6.0\ref\Amusement park.dll
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\appsettings.json
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\Amusement park.exe
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\Amusement park.deps.json
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\Amusement park.runtimeconfig.json
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\Amusement park.dll
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\Amusement park.pdb
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\user1\Desktop\Amusement park\Amusement park\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.AssemblyInfo.cs
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\staticwebassets\msbuild.Amusement park.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\staticwebassets\msbuild.build.Amusement park.props
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Amusement park.props
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Amusement park.props
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\scopedcss\bundle\Amusement park.styles.css
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.csproj.CopyComplete
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.dll
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\refint\Amusement park.dll
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.pdb
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\Amusement park.genruntimeconfig.cache
+C:\Users\user1\Desktop\Amusement park\Amusement park\obj\Debug\net6.0\ref\Amusement park.dll
